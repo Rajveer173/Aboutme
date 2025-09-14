@@ -1,0 +1,8 @@
+# Python requirements for ML/UML hands-on and portfolio demo
+jupyterlab
+pytest
+plantuml
+pandas
+scikit-learn
+matplotlib
+dvc
